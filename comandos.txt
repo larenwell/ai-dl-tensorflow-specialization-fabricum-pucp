@@ -1,0 +1,17 @@
+# no fue necesario crear un .env con conda, etc. 
+# Solo se creo un .venv basado en la versión de python 3.12.7 instalado previamente en mi computadora+
+# luego con pip se manejarán los paquetes.
+
+## CREACIÓN DEL ENTORNO VIRTUAL
+
+cd /Users/larenwell/Documents/personal/projects/ai-dl-tensorflow-specialization-fabricum-pucp && ~/.pyenv/versions/3.12.7/bin/python3 -m venv .venv && .venv/bin/python --version
+
+source .venv/bin/activate
+
+pip install --upgrade pip
+pip install 
+pip install ipykernel
+pip install numpy
+
+deactivate
+
