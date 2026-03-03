@@ -1,0 +1,11 @@
+# Virtual environment
+.venv/
+
+# Datasets
+dataset_v1/
+dataset_v1_resized/
+
+# Misc
+*.png
+__pycache__/
+.DS_Store
