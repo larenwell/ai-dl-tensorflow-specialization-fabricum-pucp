@@ -17,6 +17,15 @@ pip install matplotlib
 pip install scikit-learn
 (No se pudo instalar) pip install tensorflow-cpu
 pip install tensorflow
+pip install tensorflow_hub
 
 deactivate
+
+
+
+Detalle de la clase 6
+
+- Antes se hacia con un reshape (que aplana nuestra salida de estas concoluciones o filtros)
+- Ahora se emplea flattened.
+- Entra al final a una capa fully connected para luego con la capa softmax realizar la predicción.
 

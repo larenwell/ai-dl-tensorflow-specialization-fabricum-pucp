@@ -6,6 +6,11 @@ dataset_v1/
 dataset_v1_resized/
 tarea_1/
 
+# Pretrained model weights (too large for git)
+pretrained-model/
+pretrained-model.zip
+*.h5
+
 # Misc
 *.png
 __pycache__/
