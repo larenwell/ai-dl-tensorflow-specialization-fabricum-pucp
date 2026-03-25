@@ -16,8 +16,9 @@ pip install pandas
 pip install matplotlib
 pip install scikit-learn
 (No se pudo instalar) pip install tensorflow-cpu
-pip install tensorflow
-pip install tensorflow_hub
+pip install tensorflow==2.20.0
+pip install tensorflow_hub "setuptools<70"
+pip install transformers==4.46.2
 
 deactivate
 

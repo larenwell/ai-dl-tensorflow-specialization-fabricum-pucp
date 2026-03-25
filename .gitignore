@@ -11,6 +11,10 @@ pretrained-model/
 pretrained-model.zip
 *.h5
 
+# Large datasets and embeddings (too large for git)
+glove.6B.100d.txt
+training_cleaned.csv
+
 # Misc
 *.png
 __pycache__/
