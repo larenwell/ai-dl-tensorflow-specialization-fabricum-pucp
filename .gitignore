@@ -5,6 +5,10 @@
 dataset_v1/
 dataset_v1_resized/
 tarea_1/
+tarea_3/dataset_cnn.zip
+tarea_4/glove.6B.100d.txt
+tarea_4/test.csv
+tarea_4/train.csv
 
 # Pretrained model weights (too large for git)
 pretrained-model/
